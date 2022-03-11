@@ -62,8 +62,8 @@ a, a:hover {
     margin-right: 10px;
 }
 
-#dsmovie-car-list {
-    padding: 40px 0;
+#dsmovie-card-list {
+    padding: 40px 10;
 }
 
 .dsmovie-card {
@@ -84,13 +84,14 @@ a, a:hover {
     justify-content: space-between;
     background-color: var(--white);
     border-radius: 0 0 8px 8px;
-    min-height: 150px;
+    height: 190px;
 }
 
 .dsmovie-card-description h3 {
     font-size: 14px;
     font-weight: 700;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
+
     text-align: center;
 
 }
